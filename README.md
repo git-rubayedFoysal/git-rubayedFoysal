@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @devFoysal-git
-- 👀 I’m interested in learn about new tecnology
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in learning about new technology
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on some awesome project
 - 📫 How to reach me rubayedahmedfoysal@gmail.com
 
