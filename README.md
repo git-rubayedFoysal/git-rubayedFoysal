@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruabyed Ahmed Foysal</h1>
-<h3 align="center">A CSE student and passionate learner from Bangladesh</h3>
+<h3 align="center">A CSE Student & Passionate Learner From Bangladesh.</h3>
 
 
-- 👀 I’m interested in learning about new technology
+- 👀 I’m interested in learning about new technology.
 - 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **C, JavaScript**
-- 💞️ I’m looking to collaborate on some awesome project
+- 💞️ I’m looking to collaborate on some awesome project.
 - 📫 How to reach me **rubayedahmedfoysal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
