@@ -4,8 +4,8 @@
 
 - 👀 I’m interested in learning about new technology.
 - 🌱 I’m currently learning **DSA**
-- 💬 Ask me about C, **C++, JavaScript**
-- 💞️ I’m looking to collaborate on some awesome project.
+- 💬 Ask me about **DSA, C, C++, JavaScript**
+- 💞️ I’m looking to collaborate on some awesome projects.
 - 📫 How to reach me **rubayedahmedfoysal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
