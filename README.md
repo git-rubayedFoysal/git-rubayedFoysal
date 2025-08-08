@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/rubayed.a.foysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayed.a.foysal" height="30" width="40" /></a>
-<a href="https://instagram.com/rubayedahmedfoysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayedahmedfoysal" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/rubayedahmed/" target="blank"><img align="center" src="174857.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
+<a href="https://www.facebook.com/rub.ahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayed.a.foysal" height="30" width="40" /></a>
+<a href="https://instagram.com/rubayedahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayedahmedfoysal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rubayedahmed" target="_blank"><img align="center" src="174857.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
