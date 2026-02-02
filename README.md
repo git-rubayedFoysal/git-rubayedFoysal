@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in learning about new technology.
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **MERN STACK**
 - 💬 Ask me about **DSA, C, C++, Java, JavaScript**
 - 💞️ I’m looking to collaborate on some awesome projects.
 - 📫 How to reach me **rubayedahmedfoysal@gmail.com**
