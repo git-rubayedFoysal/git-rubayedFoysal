@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/rub.ahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayed.a.foysal" height="30" width="40" /></a>
 <a href="https://instagram.com/rubayedahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayedahmedfoysal" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/rubayedahmed" target="_blank"><img align="center" src="174857.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
-  <a href="https://x.com/rubayedahmed_" target="_blank"><img align="center" src="https://i.pinimg.com/736x/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg" alt="rubayedahmedfoysal" height="30" width="30" /></a>
+  <a href="https://x.com/rubayedahmed_" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
