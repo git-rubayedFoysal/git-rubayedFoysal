@@ -11,11 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/rub.ahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayed.a.foysal" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/rubayedahmedfoysal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubayedahmedfoysal" height="30" width="40" /></a>
-  
   <a href="https://www.linkedin.com/in/rubayedahmed" target="_blank"><img align="center" src="174857.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
-  
   <a href="https://x.com/rubayedahmed_" target="_blank"><img align="center" src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492395.png" alt="rubayedahmedfoysal" height="30" width="30" /></a>
 </p>
 
