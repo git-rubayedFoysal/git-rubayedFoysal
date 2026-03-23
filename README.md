@@ -20,27 +20,31 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-```yaml
-name: Rubayed Ahmed Foysal
-location: Doulatpur, Kushtia, Bangladesh 🇧🇩
-education: B.Sc. in Computer Science & Engineering
-role: CSE Student & MERN Developer
+```typescript
+const rubayed = {
+  name     : "Rubayed Ahmed Foysal",
+  location : "Doulatpur, Kushtia, Bangladesh 🇧🇩",
+  education: "B.Sc. in Computer Science & Engineering",
+  role     : "CSE Student & MERN Developer",
 
-current_focus:
-  - MERN Stack Development
-  - Daily DSA Practice
-  - Building AI-driven Projects
+  currentFocus : [
+    "MERN Stack Development",
+    "Daily DSA Practice",
+    "Building AI-driven Projects"
+  ],
 
-ask_me_about: [DSA, C/C++, Java, JavaScript]
+  askMeAbout : ["DSA", "C/C++", "Java", "JavaScript"],
 
-tech_stack:
-  frontend: [React, Tailwind CSS, Vanilla JS]
-  tools:    [Git, Vercel, VS Code, Webpack]
-  learning: [Node.js, Express, MongoDB]
+  techStack  : {
+    frontend : ["React", "Tailwind CSS", "Vanilla JS"],
+    tools    : ["Git", "Vercel", "VS Code", "Webpack"],
+    learning : ["Node.js", "Express", "MongoDB"]
+  },
 
-fun_fact: "I debug with console.log and I'm proud 😄"
-goal:     "Build impactful software that solves real problems"
-contact:  rubayedahmedfoysal@gmail.com
+  funFact : "I debug with console.log and I'm proud 😄",
+  goal    : "Build impactful software that solves real problems",
+  contact : "rubayedahmedfoysal@gmail.com"
+};
 ```
 
 <br clear="right"/>
