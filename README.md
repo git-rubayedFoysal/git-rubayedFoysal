@@ -20,29 +20,27 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-```typescript
-const rubayed = {
-  name     : "Rubayed Ahmed Foysal",
-  location : "Doulatpur, Kushtia 🇧🇩",
-  role     : "CSE Student & MERN Developer",
+```yaml
+name: Rubayed Ahmed Foysal
+location: Doulatpur, Kushtia, Bangladesh 🇧🇩
+education: B.Sc. in Computer Science & Engineering
+role: CSE Student & MERN Developer
 
-  currentFocus : [
-    "MERN Stack Development",
-    "Daily DSA Practice",
-    "Building AI-driven Projects"
-  ],
+current_focus:
+  - MERN Stack Development
+  - Daily DSA Practice
+  - Building AI-driven Projects
 
-  askMeAbout : ["DSA", "C/C++", "Java", "JavaScript"],
+ask_me_about: [DSA, C/C++, Java, JavaScript]
 
-  techStack  : {
-    frontend : ["React", "Tailwind CSS", "Vanilla JS"],
-    tools    : ["Git", "Vercel", "VS Code", "Webpack"],
-    learning : ["Node.js", "Express", "MongoDB"]
-  },
+tech_stack:
+  frontend: [React, Tailwind CSS, Vanilla JS]
+  tools:    [Git, Vercel, VS Code, Webpack]
+  learning: [Node.js, Express, MongoDB]
 
-  funFact : "I debug with console.log and I'm proud 😄",
-  goal    : "Build impactful software that solves real problems"
-};
+fun_fact: "I debug with console.log and I'm proud 😄"
+goal:     "Build impactful software that solves real problems"
+contact:  rubayedahmedfoysal@gmail.com
 ```
 
 <br clear="right"/>
@@ -56,6 +54,9 @@ const rubayed = {
 <a href="https://wxnow-weather.vercel.app" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-rubayedFoysal&repo=WeatherNow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
+<a href="https://todo-app-per.vercel.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-rubayedFoysal&repo=todo-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -66,10 +67,7 @@ const rubayed = {
 | # | 🌟 Project | 💡 Description | 🛠 Stack | 🔗 |
 |:--:|:---|:---|:---:|:---:|
 | 01 | ☁️ **WeatherNow** | Responsive weather app with glassmorphism UI, day/night auto-mode & timezone-aware forecasts | `JS` `Open-Meteo API` `CSS3` | [🌐 Live](https://wxnow-weather.vercel.app) |
-| 02 | 🧠 **AI Image Recognizer** | Upload an image and get instant AI-powered object/scene recognition with confidence scores | `JS` `TensorFlow.js` `React` | 🔧 Building |
-| 03 | 📰 **Fake News Detector** | NLP-based tool that analyzes news articles and flags potential misinformation | `React` `Node.js` `ML API` | 🔧 Building |
-| 04 | 🤟 **Sign Language Translator** | Real-time hand gesture recognition that converts sign language to text/voice | `React` `TensorFlow.js` `MediaPipe` | 💡 Planned |
-| 05 | 📝 **Dev Portfolio** | Personal developer portfolio showcasing projects, skills and experience | `React` `Tailwind CSS` `Vite` | 💡 Planned |
+| 02 | ✅ **My Tasks — To-Do List App** | Minimal dark-themed to-do app with animated task completion, live progress bar, localStorage persistence & responsive layout — zero dependencies | `HTML5` `CSS3` `Vanilla JS` | [🌐 Live](https://todo-app-per.vercel.app) |
 
 </div>
 
