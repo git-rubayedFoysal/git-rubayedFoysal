@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality+through+code+%F0%9F%9A%80;MERN+Stack+%7C+DSA+%7C+AI-Driven+Apps;Open+to+collaborate+on+awesome+projects+%F0%9F%A4%9D;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+reality+through+code+🚀;MERN+Stack+%7C+DSA+%7C+AI-Driven+Apps;Open+to+collaborate+on+awesome+projects+🤝;Based+in+Bangladesh+🇧🇩)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -25,7 +25,7 @@ const rubayed = {
   name     : "Rubayed Ahmed Foysal",
   location : "Doulatpur, Kushtia, Bangladesh 🇧🇩",
   education: "B.Sc. in Computer Science & Engineering",
-  role     : "CSE Student & MERN Developer",
+  university: "Rabindra Maitree University",
 
   currentFocus : [
     "MERN Stack Development",
@@ -37,7 +37,7 @@ const rubayed = {
 
   techStack  : {
     frontend : ["React", "Tailwind CSS", "Vanilla JS"],
-    tools    : ["Git", "Vercel", "VS Code", "Webpack"],
+    tools    : ["Git", "Vercel", "VS Code", "Linux/Zsh"],
     learning : ["Node.js", "Express", "MongoDB"]
   },
 
@@ -66,20 +66,33 @@ const rubayed = {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 📚 Currently Learning
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Live |
+|--------|-------------|------|
+| 🌤️ **WeatherNow** | Vanilla JS weather app using Open-Meteo & OpenWeatherMap APIs | [wxnow-weather.vercel.app](https://wxnow-weather.vercel.app) |
+| 🔍 **gitscope** | GitHub Profile Analyzer with dynamic insights & skeleton loaders | [gitscope-analyzer.vercel.app](https://gitscope-analyzer.vercel.app) |
+| ✅ **To-Do App** | Dark editorial task manager with localStorage persistence | [todo-app-per.vercel.app](https://todo-app-per.vercel.app) |
 
 </div>
 
@@ -95,7 +108,7 @@ const rubayed = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-rubayedFoysal&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=git-rubayedFoysal&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" width="68%" />
 </div>
 
 <br/>
