@@ -49,23 +49,6 @@ const rubayed = {
 
 <br clear="right"/>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://wxnow-weather.vercel.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-rubayedFoysal&repo=WeatherNow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-<a href="https://todo-app-per.vercel.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-rubayedFoysal&repo=todo-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 | # | 🌟 Project | 💡 Description | 🛠 Stack | 🔗 |
