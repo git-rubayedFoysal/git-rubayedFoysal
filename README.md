@@ -49,15 +49,6 @@ const rubayed = {
 
 <br clear="right"/>
 
-<div align="center">
-
-| # | 🌟 Project | 💡 Description | 🛠 Stack | 🔗 |
-|:--:|:---|:---|:---:|:---:|
-| 01 | ☁️ **WeatherNow** | Responsive weather app with glassmorphism UI, day/night auto-mode & timezone-aware forecasts | `JS` `Open-Meteo API` `CSS3` | [🌐 Live](https://wxnow-weather.vercel.app) |
-| 02 | ✅ **My Tasks — To-Do List App** | Minimal dark-themed to-do app with animated task completion, live progress bar, localStorage persistence & responsive layout — zero dependencies | `HTML5` `CSS3` `Vanilla JS` | [🌐 Live](https://todo-app-per.vercel.app) |
-
-</div>
-
 ---
 
 ## 🛠️ Tech Arsenal
