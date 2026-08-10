@@ -88,11 +88,12 @@ const rubayed = {
 
 <div align="center">
 
-| Project | Description | Live |
-|--------|-------------|------|
-| 🌤️ **WeatherNow** | Vanilla JS weather app using Open-Meteo & OpenWeatherMap APIs | [wxnow-weather.vercel.app](https://wxnow-weather.vercel.app) |
-| 🔍 **gitscope** | GitHub Profile Analyzer with dynamic insights & skeleton loaders | [gitscope-analyzer.vercel.app](https://gitscope-analyzer.vercel.app) |
-| ✅ **To-Do App** | Dark editorial task manager with localStorage persistence | [todo-app-per.vercel.app](https://todo-app-per.vercel.app) |
+| Project            | Description                                                                                                                                       | Live                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 🌤️ **WeatherNow** | Vanilla JS weather app using Open-Meteo & OpenWeatherMap APIs                                                                                     | [wxnow-weather.vercel.app](https://wxnow-weather.vercel.app)         |
+| 🔍 **gitscope**    | GitHub Profile Analyzer with dynamic insights & skeleton loaders                                                                                  | [gitscope-analyzer.vercel.app](https://gitscope-analyzer.vercel.app) |
+| ✅ **To-Do App**    | Dark editorial task manager with localStorage persistence                                                                                         | [todo-app-per.vercel.app](https://todo-app-per.vercel.app)           |
+| 🎓 **Nexora**      | Collaborative learning management platform with courses, assignments, quizzes, authentication, role-based access, and real-time learning features | [nexora-learning.vercel.app](https://nexora-learning.vercel.app)     |
 
 </div>
 
