@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=git-rubayedFoysal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/git-rubayedFoysal?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/git-rubayedFoysal?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=TOTAL+STARS)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/git-rubayedFoysal&label=REPOS&query=%24.public_repos&color=7c3aed&style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -88,12 +88,14 @@ const rubayed = {
 
 <div align="center">
 
-| Project            | Description                                                                                                                                       | Live                                                                 |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 🌤️ **WeatherNow** | Vanilla JS weather app using Open-Meteo & OpenWeatherMap APIs                                                                                     | [wxnow-weather.vercel.app](https://wxnow-weather.vercel.app)         |
-| 🔍 **gitscope**    | GitHub Profile Analyzer with dynamic insights & skeleton loaders                                                                                  | [gitscope-analyzer.vercel.app](https://gitscope-analyzer.vercel.app) |
-| ✅ **To-Do App**    | Dark editorial task manager with localStorage persistence                                                                                         | [todo-app-per.vercel.app](https://todo-app-per.vercel.app)           |
-| 🎓 **Nexora**      | Collaborative learning management platform with courses, assignments, quizzes, authentication, role-based access, and real-time learning features | [nexora-learning.vercel.app](https://nexora-learning.vercel.app)     |
+| Project | Description | Live | Code |
+|---|---|---|---|
+| 🎓 **Nexora** | Collaborative learning management platform with courses, assignments, quizzes, authentication, role-based access, and real-time learning features | [nexora-learning.vercel.app](https://nexora-learning.vercel.app) | [Repo](https://github.com/git-rubayedFoysal/Nexora-Collaborative-Learning-Platform) |
+| ⏱️ **Node.js Uptime Monitor** | RESTful API for monitoring uptime/downtime of user-defined URLs, with availability tracking | — | [Repo](https://github.com/git-rubayedFoysal/nodejs-uptime-monitor) |
+| 🌤️ **WeatherNow** | Vanilla JS weather app using Open-Meteo & OpenWeatherMap APIs | [wxnow-weather.vercel.app](https://wxnow-weather.vercel.app) | [Repo](https://github.com/git-rubayedFoysal/WeatherNow) |
+| 🔍 **gitscope** | GitHub Profile Analyzer with dynamic insights & skeleton loaders | [gitscope-analyzer.vercel.app](https://gitscope-analyzer.vercel.app) | [Repo](https://github.com/git-rubayedFoysal/gitscope-GitHub-Profile-Analyzer) |
+| ✅ **To-Do App** | Dark editorial task manager with localStorage persistence | [todo-app-per.vercel.app](https://todo-app-per.vercel.app) | [Repo](https://github.com/git-rubayedFoysal/TODO-APP) |
+| 🏦 **Banking Management System** | C++ console-based system for core banking operations | — | [Repo](https://github.com/git-rubayedFoysal/Banking-Management-System) |
 
 </div>
 
@@ -102,20 +104,24 @@ const rubayed = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=git-rubayedFoysal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-rubayedFoysal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" height="180"/>
+
+![Followers](https://img.shields.io/github/followers/git-rubayedFoysal?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/git-rubayedFoysal&label=Repos&query=%24.public_repos&color=7c3aed&style=for-the-badge&labelColor=1a1a2e)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=git-rubayedFoysal&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" width="68%" />
-</div>
 
-<br/>
+| Repo | Language | Last Commit | Stars |
+|---|---|---|---|
+| [Nexora-Collaborative-Learning-Platform](https://github.com/git-rubayedFoysal/Nexora-Collaborative-Learning-Platform) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/Nexora-Collaborative-Learning-Platform?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/Nexora-Collaborative-Learning-Platform?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/Nexora-Collaborative-Learning-Platform?style=flat-square&color=a78bfa) |
+| [nodejs-uptime-monitor](https://github.com/git-rubayedFoysal/nodejs-uptime-monitor) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/nodejs-uptime-monitor?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/nodejs-uptime-monitor?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/nodejs-uptime-monitor?style=flat-square&color=a78bfa) |
+| [WeatherNow](https://github.com/git-rubayedFoysal/WeatherNow) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/WeatherNow?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/WeatherNow?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/WeatherNow?style=flat-square&color=a78bfa) |
+| [TODO-APP](https://github.com/git-rubayedFoysal/TODO-APP) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/TODO-APP?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/TODO-APP?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/TODO-APP?style=flat-square&color=a78bfa) |
+| [Banking-Management-System](https://github.com/git-rubayedFoysal/Banking-Management-System) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/Banking-Management-System?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/Banking-Management-System?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/Banking-Management-System?style=flat-square&color=a78bfa) |
+| [GitHub-Users](https://github.com/git-rubayedFoysal/GitHub-Users) | ![Lang](https://img.shields.io/github/languages/top/git-rubayedFoysal/GitHub-Users?style=flat-square&color=a78bfa) | ![Last Commit](https://img.shields.io/github/last-commit/git-rubayedFoysal/GitHub-Users?style=flat-square&color=7c3aed) | ![Stars](https://img.shields.io/github/stars/git-rubayedFoysal/GitHub-Users?style=flat-square&color=a78bfa) |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-rubayedFoysal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=8" width="100%" />
 </div>
 
 ---
@@ -123,7 +129,25 @@ const rubayed = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=git-rubayedFoysal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
+
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-180%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![DSA](https://img.shields.io/badge/Core%20DSA-~85%25%20Complete-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white)
+![Project](https://img.shields.io/badge/Nexora%20LMS-Live%20Project-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| Milestone   | Detail |
+|---|---|
+| 🧩 Problem Solving   | 200+ on LeetCode, 180+ on GeeksforGeeks |
+| 📚 DSA Patterns   | Two Pointer, Sliding Window, Slow & Fast Pointer, Kadane's (base/advanced/circular), and more |
+| 🎓 Flagship Project   | **Nexora LMS** — full learning management platform with auth, role-based access, quizzes & real-time features |
+| ⏱️ Latest Build   | **Node.js Uptime Monitor** — RESTful API tracking availability of user-defined URLs |
+| 🌐 Shipped Apps   | WeatherNow, gitscope, and a dark-editorial To-Do app — all live on Vercel |
+| 🎯 Consistency   | Daily disciplined DSA practice, following a structured pattern-based curriculum |
+
 </div>
 
 ---
